@@ -1,0 +1,3 @@
+- Finish scoring system
+- Add a GUI
+- Add more games of chances
